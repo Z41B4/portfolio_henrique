@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<!-- NAVBAR corrigida -->
+<!-- NAVBAR -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top shadow">
   <div class="container">
     <a class="navbar-brand fw-bold" href="#">Henrique</a>
@@ -30,5 +30,4 @@
   </div>
 </nav>
 
-<!-- Espaço para o conteúdo não ficar escondido pela navbar -->
 <div style="margin-top: 70px;"></div>
